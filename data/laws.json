@@ -1,0 +1,74 @@
+[
+  {
+    "id": "EU-01",
+    "jurisdiction": "EU",
+    "title": "Directive sur la liberté d'installation",
+    "content": "Les citoyens de l'UE peuvent vivre et travailler librement dans tous les États membres."
+  },
+  {
+    "id": "EU-02",
+    "jurisdiction": "EU",
+    "title": "RGPD - Règlement Général sur la Protection des Données",
+    "content": "Toute collecte et traitement de données personnelles doit respecter les principes de licéité, de finalité et de minimisation des données."
+  },
+  {
+    "id": "EU-03",
+    "jurisdiction": "EU",
+    "title": "Directive anti-discrimination 2000/43/CE",
+    "content": "Interdiction de toute discrimination directe ou indirecte fondée sur l'origine raciale ou ethnique."
+  },
+  {
+    "id": "EU-04",
+    "jurisdiction": "EU",
+    "title": "Charte des droits fondamentaux - Article 8",
+    "content": "Toute personne a droit à la protection des données à caractère personnel la concernant."
+  },
+  {
+    "id": "EU-05",
+    "jurisdiction": "EU",
+    "title": "Directive services dans le marché intérieur",
+    "content": "Liberté d'établissement et libre prestation de services dans l'Union européenne."
+  },
+  {
+    "id": "BE-01",
+    "jurisdiction": "BE",
+    "title": "Loi belge sur la non‑discrimination",
+    "content": "Interdiction de discrimination fondée sur la nationalité, l'origine ou la religion."
+  },
+  {
+    "id": "BE-02",
+    "jurisdiction": "BE",
+    "title": "Code du travail belge - Contrats",
+    "content": "Tout travail doit faire l'objet d'un contrat écrit précisant les droits et obligations des parties."
+  },
+  {
+    "id": "BE-03",
+    "jurisdiction": "BE",
+    "title": "Loi vie privée et surveillance",
+    "content": "Toute mesure de surveillance doit être proportionnée et respecter la vie privée des citoyens."
+  },
+  {
+    "id": "BE-04",
+    "jurisdiction": "BE",
+    "title": "Loi égalité des chances en emploi",
+    "content": "Les employeurs doivent garantir l'égalité des chances et interdire toute discrimination à l'embauche."
+  },
+  {
+    "id": "BE-05",
+    "jurisdiction": "BE",
+    "title": "Protection des données personnelles (transposition RGPD)",
+    "content": "Application du RGPD en droit belge avec autorité de contrôle et sanctions administratives."
+  },
+  {
+    "id": "FR-01",
+    "jurisdiction": "FR",
+    "title": "Code du travail français",
+    "content": "Réglementation sur les contrats de travail, les licenciements et les conditions de travail."
+  },
+  {
+    "id": "DE-01",
+    "jurisdiction": "DE",
+    "title": "Loi allemande sur la protection des données",
+    "content": "Réglementation sur la collecte, le traitement et le stockage des données personnelles."
+  }
+]
