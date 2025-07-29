@@ -70,5 +70,65 @@
     "jurisdiction": "DE",
     "title": "Loi allemande sur la protection des données",
     "content": "Réglementation sur la collecte, le traitement et le stockage des données personnelles."
+  },
+  {
+    "id": "DE-02",
+    "jurisdiction": "DE",
+    "title": "Loi allemande sur l'égalité des chances",
+    "content": "Interdiction de discrimination dans l'emploi et la formation professionnelle."
+  },
+  {
+    "id": "DE-03",
+    "jurisdiction": "DE",
+    "title": "Loi allemande sur la sécurité sociale",
+    "content": "Réglementation sur les cotisations sociales et les prestations de sécurité sociale."
+  },
+  {
+    "id": "ES-01",
+    "jurisdiction": "ES",
+    "title": "Statut des travailleurs espagnol",
+    "content": "Réglementation sur les droits des travailleurs, les contrats et les licenciements."
+  },
+  {
+    "id": "IT-01",
+    "jurisdiction": "IT",
+    "title": "Code civil italien - Contrats de travail",
+    "content": "Réglementation sur les contrats de travail, les licenciements et les conditions de travail."
+  },
+  {
+    "id": "IT-02",
+    "jurisdiction": "IT",
+    "title": "Loi italienne sur la protection des données personnelles",
+    "content": "Réglementation sur la collecte, le traitement et le stockage des données personnelles."
+  },
+  {
+    "id": "NL-01",
+    "jurisdiction": "NL",
+    "title": "Code du travail néerlandais",
+    "content": "Réglementation sur les contrats de travail, les licenciements et les conditions de travail."
+  },
+  {
+    "id": "NL-02",
+    "jurisdiction": "NL",
+    "title": "Loi néerlandaise sur l'égalité des chances",
+    "content": "Interdiction de discrimination dans l'emploi et la formation professionnelle."
+  },
+  {
+    "id": "NL-03",
+    "jurisdiction": "NL",
+    "title": "Loi néerlandaise sur la protection des données personnelles",
+    "content": "Réglementation sur la collecte, le traitement et le stockage des données personnelles."
+  },
+  {
+    "id": "PT-01",
+    "jurisdiction": "PT",
+    "title": "Code du travail portugais",
+    "content": "Réglementation sur les contrats de travail, les licenciements et les conditions de travail."
+  },
+  {
+    "id": "PT-02",
+    "jurisdiction": "PT",
+    "title": "Loi portugaise sur la protection des données personnelles",
+    "content": "Réglementation sur la collecte, le traitement et le stockage des données personnelles."
   }
 ]
